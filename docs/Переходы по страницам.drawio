@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-05-21T08:36:45.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HPgU4o57frTY2dWB3FhF" version="24.4.4" type="google">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-2" target="WlJHlsqI5Wvi6Lyrhoir-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-2" target="WlJHlsqI5Wvi6Lyrhoir-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-2" target="WlJHlsqI5Wvi6Lyrhoir-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="190" />
+              <mxPoint x="670" y="190" />
+              <mxPoint x="670" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-2" value="Статистика" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-4" value="Комментарии" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-6" value="Карточка оборудования" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-9" target="WlJHlsqI5Wvi6Lyrhoir-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-9" value="Логинизация&lt;div&gt;(ТМК ID)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-12" target="WlJHlsqI5Wvi6Lyrhoir-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-12" target="WlJHlsqI5Wvi6Lyrhoir-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-19" target="WlJHlsqI5Wvi6Lyrhoir-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-19" value="Настройки" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-31" value="Пользователи" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-32" value="Предприятия" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-57" target="WlJHlsqI5Wvi6Lyrhoir-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-57" target="WlJHlsqI5Wvi6Lyrhoir-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-57" target="WlJHlsqI5Wvi6Lyrhoir-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="219.99999999999994" />
+              <mxPoint x="1070" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-57" value="Статистика" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-58" value="Комментарии" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-59" value="Карточка оборудования" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlJHlsqI5Wvi6Lyrhoir-61" target="WlJHlsqI5Wvi6Lyrhoir-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-61" value="Логинизация&lt;div&gt;(ТМК ID)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-73" value="Администратор" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlJHlsqI5Wvi6Lyrhoir-74" value="Сотрудник" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
